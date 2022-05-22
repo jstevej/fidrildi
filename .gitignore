@@ -1,0 +1,6 @@
+.DS_Store
+drawings/output
+pcb/fidrildi-backups
+pcb/jlcpcb
+pcb-top-plate/fidrildi-backups
+pcb-top-plate/jlcpcb
