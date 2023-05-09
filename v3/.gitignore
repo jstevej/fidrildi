@@ -1,0 +1,9 @@
+.DS_Store
+drawings/export
+drawings/output
+pcb/fidrildi3-backups
+pcb/fp-info-cache
+pcb/jlcpcb
+plate/plate-backups
+plate/fp-info-cache
+plate/jlcpcb
