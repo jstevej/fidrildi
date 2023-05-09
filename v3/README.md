@@ -1,6 +1,6 @@
 # Fiðrildi 3
 
-Fiðrildi 3 is a 34-key keyboard inspired by [Reviung](https://github.com/gtips/reviung) and [Corne](https://github.com/foostan/crkbd).
+Fiðrildi 3 is a 34-key, ortholinear, butterfly-shaped, unibody split keyboard inspired by [Reviung](https://github.com/gtips/reviung) [Corne](https://github.com/foostan/crkbd), and others.
 
 It is designed specifically for the [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios), and uses all available pins. The Helios is soldered in to minimize the profile so that it can be sandwiched between the top plate and bottom PCB.
 
