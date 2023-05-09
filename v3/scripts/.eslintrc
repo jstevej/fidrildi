@@ -1,0 +1,38 @@
+{
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": "2018",
+        "sourceType": "module",
+        "project": "tsconfig.json",
+    },
+    "plugins": [
+        "@typescript-eslint",
+        "ordered-imports",
+        "prettier",
+    ],
+    "extends": [
+        "plugin:@typescript-eslint/recommended",
+        "plugin:prettier/recommended",
+    ],
+    "ignorePatterns": [
+        "*.js",
+    ],
+    "rules": {
+        "ordered-imports/ordered-imports": [
+            "error",
+            {
+                "symbols-first": true,
+                "declaration-ordering": ["source", "case-insensitive"],
+                "specifier-ordering": "case-insensitive",
+            },
+        ],
+        "@typescript-eslint/no-empty-function": "off",
+        "@typescript-eslint/no-unnecessary-qualifier": "error",
+        "@typescript-eslint/no-unused-vars": ["error", { "args": "none" }],
+        "@typescript-eslint/no-use-before-define": "off",
+        "@typescript-eslint/prefer-for-of": "warn",
+        "@typescript-eslint/prefer-function-type": "error",
+        "@typescript-eslint/prefer-readonly": "warn",
+        "@typescript-eslint/promise-function-async": "error",
+    },
+}

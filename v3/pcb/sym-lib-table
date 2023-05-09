@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "helios")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/helios.kicad_sym")(options "")(descr ""))
+  (lib (name "sk6812-mini-e")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/sk6812-mini-e.kicad_sym")(options "")(descr ""))
+)

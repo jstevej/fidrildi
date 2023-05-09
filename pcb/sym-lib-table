@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "nice-nano")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/nice-nano.kicad_sym")(options "")(descr ""))
-  (lib (name "sk6812-side")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/sk6812-side.kicad_sym")(options "")(descr ""))
-)
