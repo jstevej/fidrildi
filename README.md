@@ -10,7 +10,7 @@ The hardware is a work-in-progress, but will converge soon on a final version --
 
 Versions:
 
-- Version 1: Inspired by the [MT3 Lord of the Rings keycaps](https://matt3o.com/the-tolkien-keycaps-are-finally-live/).
-- Version 2: Eronomic tweaks, Cirque trackpad, GC9A01 display, rotary encoder, and side-mount LEDs on the bottom of the PCB. MCU is soldered in rather than socketed in order to minimize the profile. Requires [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios) MCU.
-- Version 3: Ergonomic tweaks, peripheral support via 4-pin and 8-pin JST SH (1 mm) connectors, switch to reverse-mount LEDs and acrylic middle layer. MCU is soldered in rather than socketed in order to minimize the profile. Requires [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios) MCU.
+- [Version 1](https://github.com/jstevej/fidrildi/tree/main/v1): Inspired by the [MT3 Lord of the Rings keycaps](https://matt3o.com/the-tolkien-keycaps-are-finally-live/).
+- [Version 2](https://github.com/jstevej/fidrildi/tree/main/v2): Eronomic tweaks, Cirque trackpad, GC9A01 display, rotary encoder, and side-mount LEDs on the bottom of the PCB. MCU is soldered in rather than socketed in order to minimize the profile. Requires [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios) MCU.
+- [Version 3](https://github.com/jstevej/fidrildi/tree/main/v3): Ergonomic tweaks, peripheral support via 4-pin and 8-pin JST SH (1 mm) connectors, switch to reverse-mount LEDs and acrylic middle layer. MCU is soldered in rather than socketed in order to minimize the profile. Requires [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios) MCU.
 - Version 4: Coming soon. Based on version 3 with bug fixes, ergonomic tweaks, keeps the reverse-mount LEDs and acrylic, removes the 4-pin JST connector, adds rotary encoder. MCU is soldered in rather than socketed in order to minimize the profile. Requires [0xcb Helios](https://github.com/0xCB-dev/0xCB-Helios) MCU.
