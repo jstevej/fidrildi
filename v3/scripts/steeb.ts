@@ -136,7 +136,6 @@ interface KeyboardSpecs {
 // | Steeb2      |    6 |    3 |    -3 |    -3 |   12 |   50 |    17 |    18 |     9 |    18 |
 // | Fidrildi2   |    7 |    3 |    -3 |    -3 |   15 |   60 |    19 |    19 |  7.27 |    22 |
 // | Fidrildi3   |    7 |    3 |    -3 |    -4 |   20 |   40 |    19 |    19 |  7.27 |    22 |
-// | Fidrildi3.1 |    7 |    3 |    -3 |  -2.5 |   20 |   40 |    19 |    19 |  7.27 |    22 |
 
 const specs: KeyboardSpecs = {
     canvas: { height: 300, width: 500 },
@@ -145,7 +144,7 @@ const specs: KeyboardSpecs = {
         { offset: 7 }, // pinky -> ring
         { offset: 3 }, // ring -> middle
         { offset: -3 }, // middle -> index
-        { offset: -2.5 }, // index -> inner
+        { offset: -4 }, // index -> inner
     ],
     numRows: 3,
     separation: 42,
