@@ -1,0 +1,62 @@
+(footprint "waveshare-cutout" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 54fd8a21-f13c-4c61-bd60-91a3e2a2b7fa)
+  )
+  (fp_text value "waveshare-cutout" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 172ec654-a628-41d6-9199-a9f3d1806737)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 88cb1064-d880-4171-b7b0-8d6e2a3c6ebc)
+  )
+  (fp_line (start -13.87 11.48) (end 13.87 11.48)
+    (stroke (width 0.12) (type default)) (layer "Edge.Cuts") (tstamp 01747920-27e0-4bfc-a162-9ee0c8cbc201))
+  (fp_arc (start -13.87 11.48) (mid 0 -18.004647) (end 13.87 11.48)
+    (stroke (width 0.12) (type default)) (layer "Edge.Cuts") (tstamp 5859d8b7-f454-45a4-93e3-003bd746ea4a))
+  (fp_line (start -13.869338 11.473692) (end 13.869132 11.473687)
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp 71cb8daf-7094-4e55-9d6a-d6a713ba2052))
+  (fp_line (start -2.499994 0) (end 2.500003 0)
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp f31705ff-a365-42ff-9dd5-8fbdf8aed1ce))
+  (fp_line (start 0.000005 2.499998) (end 0.000005 -2.499998)
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp 51348f41-78bf-42fb-a15e-5b7350d50056))
+  (fp_line (start 6.807497 22.478565) (end -7.113971 22.51265)
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp 2a2d3f47-86b8-4cf6-86aa-824552734350))
+  (fp_curve (pts (xy -18.750068 -0.51065) (xy -18.737067 -8.289346) (xy -12.221226 -18.629748) (xy 0.057932 -18.639717))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp 0a540d19-a094-4405-aa94-997e07d233da))
+  (fp_curve (pts (xy -12.321954 -13.12137) (xy -19.24881 -6.616617) (xy -19.926316 4.152069) (xy -13.869338 11.473692))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp aca4a27b-c99f-45a2-86b9-98245568c88b))
+  (fp_curve (pts (xy -11.777037 15.160945) (xy -14.670079 12.51315) (xy -18.763055 7.26805) (xy -18.750068 -0.51065))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp a5e26980-f664-42f5-855b-6f05740b757b))
+  (fp_curve (pts (xy -7.113971 22.51265) (xy -7.113972 18.559431) (xy -10.233874 16.573302) (xy -11.777037 15.160945))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp c518c217-01b9-47b8-90ce-7b13db4a15de))
+  (fp_curve (pts (xy 0.057932 -18.639717) (xy 12.337072 -18.649699) (xy 18.798075 -7.995919) (xy 18.749626 -0.48042))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp b646fb78-4062-4091-bb27-aefea21df719))
+  (fp_curve (pts (xy 11.411979 15.258429) (xy 9.917586 16.486403) (xy 6.926772 18.593498) (xy 6.807497 22.478565))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp aa529b10-f644-41c3-8f67-b41a96353912))
+  (fp_curve (pts (xy 12.321738 -13.121375) (xy 5.39488 -19.626126) (xy -5.395098 -19.626124) (xy -12.321954 -13.12137))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp ba6585fd-8454-42ba-b35b-21c40332edef))
+  (fp_curve (pts (xy 13.869132 11.473687) (xy 19.926107 4.152061) (xy 19.248597 -6.616625) (xy 12.321738 -13.121375))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp e2f4f2f2-ddb4-402e-8bab-d71c2aea12a9))
+  (fp_curve (pts (xy 18.749626 -0.48042) (xy 18.701163 7.035075) (xy 14.706825 12.550952) (xy 11.411979 15.258429))
+    (stroke (width 0.2) (type solid)) (layer "User.9") (tstamp 93c952e0-30a0-4e69-bbb3-7adb6172e18f))
+  (group "" (id 67e725b0-d33a-42c1-9e23-2a6560f5fc79)
+    (members
+      0a540d19-a094-4405-aa94-997e07d233da
+      2a2d3f47-86b8-4cf6-86aa-824552734350
+      51348f41-78bf-42fb-a15e-5b7350d50056
+      71cb8daf-7094-4e55-9d6a-d6a713ba2052
+      93c952e0-30a0-4e69-bbb3-7adb6172e18f
+      a5e26980-f664-42f5-855b-6f05740b757b
+      aa529b10-f644-41c3-8f67-b41a96353912
+      aca4a27b-c99f-45a2-86b9-98245568c88b
+      b646fb78-4062-4091-bb27-aefea21df719
+      ba6585fd-8454-42ba-b35b-21c40332edef
+      c518c217-01b9-47b8-90ce-7b13db4a15de
+      e2f4f2f2-ddb4-402e-8bab-d71c2aea12a9
+      f31705ff-a365-42ff-9dd5-8fbdf8aed1ce
+    )
+  )
+)

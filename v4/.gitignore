@@ -1,0 +1,6 @@
+.DS_Store
+drawings/export
+pcb/fidrildi4-backups
+pcb/fp-info-cache
+plate/plate-backups
+plate/fp-info-cache
