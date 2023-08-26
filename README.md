@@ -2,7 +2,9 @@
 
 Fiðrildi is a 34-key, ortholinear, butterfly-shaped, unibody split keyboard inspired by [Reviung](https://github.com/gtips/reviung), [Corne](https://github.com/foostan/crkbd), and others.
 
-![Picture of Fiðrildi Keyboard](v4/images/fidrildi4-wraith.jpg)
+fidrildi-v4-wraith.jpg
+
+![Picture of Fiðrildi Keyboard](v4/images/fidrildi-v4-wraith.jpg)
 ![Picture of Fiðrildi Keyboard](v3/images/fidrildi3-comet-1.png)
 
 QMK support is in the ["steve" branch of my QMK repo](https://github.com/jstevej/qmk_firmware/tree/steve)
